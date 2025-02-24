@@ -16,4 +16,4 @@
 Everblush is colorscheme like the others in the programmer / ricer's community. But with beautiful syntax highlighting and colors.
 
 # Installation
-Copy `./everblush.colorscheme` to `~/.local/share/konsole`. Make the directory if it doesn't exist.
+Copy `./everblush.colorscheme` to `~/.local/share/konsole`. Make the directory if it doesn't exist. (make sure to set the theme once you're done)
